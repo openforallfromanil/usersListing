@@ -1,0 +1,86 @@
+.bs-docs-nav {
+    background-color: #fff;
+    border-bottom: 0 none;
+    margin-bottom: 0;
+}
+.bs-docs-nav .navbar-header .navbar-toggle {
+    border-color: #fff;
+}
+.bs-docs-nav .navbar-toggle .icon-bar {
+    background-color: #563d7c;
+}
+
+.bs-docs-nav .navbar-brand, .bs-docs-nav .navbar-nav > li > a {
+    color: #563d7c;
+    font-weight: 500;
+}
+
+.bs-docs-nav .navbar-brand, .bs-docs-nav .navbar-nav > li > a {
+    color: #563d7c;
+    font-weight: 500;
+}
+
+.bs-docs-nav .navbar-nav > .active > a, .bs-docs-nav .navbar-nav > .active > a:hover, .bs-docs-nav .navbar-nav > li > a:hover {
+    background-color: #f9f9f9;
+    color: #463265;
+}
+.bs-docs-nav .navbar-brand, .bs-docs-nav .navbar-nav > li > a {
+    color: #563d7c;
+    font-weight: 500;
+}
+
+
+.bs-docs-footer {
+    border-top: 1px solid #e5e5e5;
+    color: #767676;
+    margin-top: 100px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+}
+.bs-docs-social {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.bs-docs-social-buttons {
+    display: inline-block;
+    list-style: outside none none;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+.bs-docs-social-buttons li {
+    display: inline-block;
+    line-height: 1;
+    padding: 5px 8px;
+}
+.github-btn {
+    border: 0 none;
+    overflow: hidden;
+}
+.bs-docs-social-buttons .twitter-follow-button {
+    width: 225px !important;
+}
+.bs-docs-social-buttons .twitter-follow-button {
+    width: 225px !important;
+}
+.bs-docs-social-buttons .twitter-share-button {
+    width: 98px !important;
+}
+.bs-docs-social-buttons .twitter-share-button {
+    width: 98px !important;
+}
+.bs-docs-footer-links {
+    margin-top: 20px;
+    padding-left: 0;
+}
+.bs-docs-footer-links li:first-child {
+    padding-left: 0;
+}
+.bs-docs-footer-links li {
+    display: inline;
+    padding: 0 2px;
+}
+.bs-docs-footer-links li {
+    display: inline;
+    padding: 0 2px;
+}
